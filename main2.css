@@ -1,0 +1,61 @@
+body {
+	background-color: aquamarine;
+	font-family: Georgia;
+}
+
+header { 
+	border: solid black; 
+	max-width: 100ex;
+}
+
+h1 {
+	font-size: 2.0em;
+	margin-bottom: 10px;
+	font-weight: 600;
+}
+
+h2 {
+	font-size: 1.2em;
+	margin-bottom: 10px;
+	font-weight: 600;
+}
+
+h3 {
+	font-size: 1.2em;
+	margin-bottom: 10px;
+	font-weight: 600;
+}
+
+h4 {
+	font-size: 1.2em;
+	margin-bottom: 10px;
+	font-weight: 600;
+}
+
+main {
+	border: navy blue;
+	max-width: 100ex;
+}
+
+footer{
+	border: dotted blue;
+  text-align: center;  
+	max-width: 70ex;
+}
+
+/*section class*/
+.information1 {
+	color: black;
+	background-color: aquamarine;
+	width: 100%;
+	padding-left: none;
+	position: relative;
+}
+/*section class*/
+.information2 {
+	color: black;
+	background-color: aquamarine;
+	width: 100%;
+	padding-left: none;
+	position: relative;
+}
